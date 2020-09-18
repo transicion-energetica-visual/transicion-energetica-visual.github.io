@@ -1,6 +1,6 @@
 ## Evolución histórica de emisiones de CO2 por sectores
 
-![Image](https://github.com/transicion-energetica-visual/transicion-energetica-visual.github.io/blob/master/figures/emisiones_historicas_sectores.png)
+![Image](figures/emisiones_historicas_sectores.png)
 
 ## Evolución histórica de fuentes de generacion electricidad 
 ![Image](https://github.com/transicion-energetica-visual/transicion-energetica-visual.github.io/blob/master/figures/fuentes_generacion_electrica.png)
