@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Evolución histórica de emisiones de CO_2 por sectores
+
+![alt text](http://url/to/img.png)
 
 You can use the [editor on GitHub](https://github.com/transicion-energetica-visual/transicion-energetica-visual.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
