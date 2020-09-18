@@ -1,0 +1,43 @@
+tech, color
+onshore wind,#2e8b57
+offshore wind,#556b2f
+solar PV,#adff2f
+onwind,#2e8b57
+offwind,#556b2f
+solar,#adff2f
+hydro,#1e90ff
+biomass,#cd853f
+nuclear,#b22222
+gas,#a9a9a9
+gas turbine,#696969
+gas boiler,#a9a9a9
+oil,#696969
+coal,#555555
+lignite,#000000
+resistive heater,#ff8c00
+heat pump,#ffc34d
+hydrogen storage,#800080
+battery storage,#ffc0cb
+hot water storage,#ffe0b3
+methanation,#da70d6
+transmission,#4d004d
+wind and solar,#2e8b57
+conventional,#a9a9a9
+balancing,#b300b3
+power-to-heat,#ff8c00
+electricity,#0000ff
+rural heat,#ff0000
+urban heat,#ffa500
+cooling,#00aecc
+waste,#804000
+gas CHP,#f08080
+gas CHP elec,#f08080
+gas CHP heat,#f08080
+OCGT,#000080
+CCGT,#6495ed
+central water tank,#daa520
+electric vehicle,#ff4500
+geothermal,#804000
+district heating,#ffe0b3
+distribution,#cc0066
+central gas CHP electric,#f08080
