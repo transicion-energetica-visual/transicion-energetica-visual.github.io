@@ -43,9 +43,9 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
-Todas las figuras incluidas en esta página tienen Copyright © 2020 Marta Victoria <mvp@eng.au.dk> y están sujetas a una licencia [Creative Commons Attribution 4.0 International Licence Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Todas las figuras incluidas en esta página tienen Copyright © 2020 Marta Victoria <mvp@eng.au.dk> y están sujetas a una licencia [Creative Commons Attribution 4.0 International Licence Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Los scripts utilizados para generar las figuras que se muestran en esta página pueden encontrarse en el directorio [scripts/](https://github.com/transicion-energetica-visual/transicion-energetica-visual.github.io/tree/master/scripts). Todos los scripts están sujetos licencia GPLv3.
+Los scripts utilizados para generar las figuras que se muestran en esta página pueden encontrarse en el directorio [scripts/](https://github.com/transicion-energetica-visual/transicion-energetica-visual.github.io/tree/master/scripts). Todos los scripts están sujetos a licencia GPLv3.
 
 
-Si tienes algunas ideas puedes enviarme un mail o directamente crear un [pull request](https://opensource.com/article/19/7/create-pull-request-github) en el repositorio.
+Si tienes alguna idea para generar otra figura puedes enviarme un mail o directamente crear un [pull request](https://opensource.com/article/19/7/create-pull-request-github) en el repositorio.
